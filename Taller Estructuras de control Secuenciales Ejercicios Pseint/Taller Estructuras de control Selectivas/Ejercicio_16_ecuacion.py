@@ -17,5 +17,3 @@ elif D > 0:
     X2 = (-B - math.sqrt(D)) / (2*A)
     print (x1), (x2)
     
-else:
-    print("La ecuación no tiene solución en los números reales.")
